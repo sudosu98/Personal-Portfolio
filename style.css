@@ -440,14 +440,11 @@ footer .text span a:hover{
     transform: scale(1);
   }
 }
-.text-one{
+.text-two{
   animation: bounceIn 1s;
 }
-.text-two{
-  animation: bounceIn 2s;
-}
 .logo{
-  animation: bounceIn 3s;
+  animation: bounceIn 1s;
 }
 @media (max-width: 750px) {
   nav .navbar{
