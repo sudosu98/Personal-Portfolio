@@ -446,17 +446,7 @@ footer .text span a:hover{
   animation-duration: 1s;
   animation-name: slidein;
 }
-@keyframes slidein {
-  from {
-    margin-bottom: 100%;
-    width: 300%;
-  }
 
-  to {
-    margin-bottom: 0%;
-    width: 100%;
-  }
-}
 
 
 @media (max-width: 750px) {
