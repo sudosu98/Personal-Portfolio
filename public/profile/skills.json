@@ -1,0 +1,113 @@
+{
+  "intro": "Over the years i have had the oppurtunity to work on various technologies and framework. I always look forward to increase my knowledge in the existing stack and add new ones to it.",
+  "skills": [
+    {
+      "title": "Languages & Databases",
+      "items": [
+        {
+          "icon": "images/skills/java.png",
+          "title": "Java"
+        },
+        {
+          "icon": "images/skills/js.png",
+          "title": "JavaScript"
+        },
+        {
+          "icon": "images/skills/python.png",
+          "title": "Python"
+        },
+        {
+          "icon": "images/skills/typescript.png",
+          "title": "Typescript"
+        },
+        {
+          "icon": "images/skills/mysql.png",
+          "title": "MySQL"
+        },
+        {
+          "icon": "images/skills/mongo-db.png",
+          "title": "MongoDB"
+        },
+        {
+          "icon": "images/skills/postgres.png",
+          "title": "PostgreSQL"
+        },
+        {
+          "icon": "images/skills/graphql.svg",
+          "title": "GraphQL"
+        }
+      ]
+    },
+    {
+      "title": "Frameworks & Technologies",
+      "items": [
+        {
+          "icon": "images/skills/html.png",
+          "title": "HTML"
+        },
+        {
+          "icon": "images/skills/css.png",
+          "title": "CSS"
+        },
+        {
+          "icon": "images/skills/react.png",
+          "title": "React JS"
+        },
+        {
+          "icon": "images/skills/redux.svg",
+          "title": "Redux"
+        },
+        {
+          "icon": "images/skills/Expressjs.png",
+          "title": "Express JS"
+        },
+        {
+          "icon": "images/skills/elasticsearch.svg",
+          "title": "Elasticsearch"
+        },
+        {
+          "icon": "images/skills/springboot.png",
+          "title": "Springboot"
+        },
+
+        {
+          "icon": "images/skills/nodejs.png",
+          "title": "Node JS"
+        },
+        {
+          "icon": "images/skills/dagster.svg",
+          "title": "Dagster"
+        }
+      ]
+    },
+    {
+      "title": "Tools, Platforms & OS",
+      "items": [
+        {
+          "icon": "images/skills/git.png",
+          "title": "Git"
+        },
+        {
+          "icon": "images/skills/docker.png",
+          "title": "Docker"
+        },
+        {
+          "icon": "images/skills/aws.png",
+          "title": "AWS"
+        },
+        {
+          "icon": "images/skills/vscode.png",
+          "title": "VS Code"
+        },
+        {
+          "icon": "images/skills/mixpanel.png",
+          "title": "Mixpanel"
+        },
+        {
+            "icon": "images/skills/linux.png",
+            "title": "Linux"
+          }
+      ]
+    }
+  ]
+}

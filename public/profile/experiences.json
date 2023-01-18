@@ -1,0 +1,34 @@
+{
+    "experiences": [
+        {
+            "title": "Product Engineer",
+            "subtitle": "Ovonts Technologies Pvt. Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Designed, Developed and Maintained Unify a Saas based social commerce enablement platform as a part of the core team. ",
+                "During my tenure I worked closely along the founders and business team and solve real life problems associated with social commerce."
+            ],
+            "dateText": "May 2022 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Datachain Software",
+            "workType": "Full-time",
+            "workDescription": [
+                "Designed and Developed python packages for e-commerce processes and automated the process using orchestration technology by converting them into directed acyclic graphs.",
+                "Involved in design decisions and architectural problems faced during my time at the company. "
+            ],
+            "dateText": "June 2021 – May 2022"
+        },
+        {
+            "title": "Software Developer",
+            "subtitle": "Everyware Technologies",
+            "workType": "Internship",
+            "workDescription": [
+                "Designed and Developed the backend for a ML based search engine that differentiates Automated and No-Automated vehicle related blog posts.",
+                "Automate posting them to wordpress along with indexing the posts to elasticsearch."
+            ],
+            "dateText": "March 2021 – June 2021"
+        }
+    ]
+}

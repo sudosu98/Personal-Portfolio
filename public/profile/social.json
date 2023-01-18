@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/sourabh-upadhye/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/Sourabh-dot"
+        },
+        {
+            "network" : "email",
+            "href": "sourabh.1998upadhye@gmail.com"
+        }
+    ]
+}
