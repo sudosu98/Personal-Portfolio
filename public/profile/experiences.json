@@ -1,6 +1,16 @@
 {
     "experiences": [
         {
+            "title": "Software Engineer",
+            "subtitle": "Purecode Software",
+            "workType": "Full-time",
+            "workDescription": [
+                "Product Engineering, Working around DSL and Transpilers, Designing new features for Edith, Maintaining codebase, Contributing in AI/ML research",
+                "Currently working on product development for Edith a AI tool that converts image design input to React code by the use of computer vision"
+            ],
+            "dateText": "January 2023 – Present"
+        },
+        {
             "title": "Product Engineer",
             "subtitle": "Ovonts Technologies Pvt. Ltd",
             "workType": "Full-time",
@@ -8,7 +18,7 @@
                 "Designed, Developed and Maintained Unify a Saas based social commerce enablement platform as a part of the core team. ",
                 "During my tenure I worked closely along the founders and business team and solve real life problems associated with social commerce."
             ],
-            "dateText": "May 2022 – Present"
+            "dateText": "May 2022 – January 2023"
         },
         {
             "title": "Software Engineer",
