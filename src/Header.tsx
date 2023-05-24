@@ -1,19 +1,11 @@
-import { Fragment } from "react";
 import {
   BriefcaseIcon,
   BuildingOfficeIcon,
-  ChevronDownIcon,
   ClockIcon,
   CloudArrowDownIcon,
-  LinkIcon,
   MapPinIcon,
-  PhoneIcon,
 } from "@heroicons/react/20/solid";
-import { Menu, Transition } from "@headlessui/react";
 
-function classNames(...classes: any) {
-  return classes.filter(Boolean).join(" ");
-}
 
 export default function Header() {
   return (
